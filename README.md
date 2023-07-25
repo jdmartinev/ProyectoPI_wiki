@@ -7,4 +7,6 @@
  Se puede agregar y editar _wiki pages_ directamente en GitHub.
 
  1. En GitHub.com, navegue a la página principal del repositorio.
- 2. En el repositorio, haga click en Wiki 
+ 2. En el repositorio, haga click en Wiki
+
+    ![Alt text](figs/step1.png?raw=true "Title")
