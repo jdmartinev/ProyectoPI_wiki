@@ -32,6 +32,9 @@
    https://gist.github.com/TT--/14260aef6c0e31fca5b37e7cb3c53020
 
 Primero, debemos clonar el repositorio de forma local. Para esto, vamos a dirigirnos en nuesto PC al sitio (carpeta) en el que vamos a almacenar nuestra wiki.    Preferiblemente, este directorio debe ser el mismo directorio raíz donde está ubicado el repositorio del proyecto. __Nota:__ A pesar de que es posible manejar este directorio dentro de la carpeta local de nuestro proyecto, para evitar conflictos es preferible manejarlos como repositorios independientes. 
+
+![Alt text](figs/step5.png?raw=true "Title")
+
 Después, en la parte inferior derecha de la página de visualización de la _wiki_ (punto 5), aparece la url para clonar el repositorio. Abrimos una terminal en nuestro PC en la carpeta donde va a estar la _wiki_ y escribimos el siguiente comando:
 
    ``git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY``
