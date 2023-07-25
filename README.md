@@ -6,7 +6,7 @@
 
  Se puede agregar y editar _wiki pages_ directamente en GitHub.
 
- 1. En GitHub.com, navegue a la página principal del repositorio.
+ 1. En GitHub.com, navegue a la página principal del repositorio. Si no tiene un repositorio creado para su proyecto, debe crearlo antes de continuar este tutorial.
  2. En el repositorio, haga click en Wiki
 
     ![Alt text](figs/step1.png?raw=true "Title")
@@ -22,4 +22,25 @@
  5. Llegaremos a la página de visualización de la Wiki, donde por defecto tendremos acceso a la página __home__ pero además tendremos una barra de navegación a la derecha, una opción para editar la página en la que estemos ubicados y una opción para crear nuevas páginas. Lo ideal es que creemos una página para cada homework, workshop y deliverable.
 
     ![Alt text](figs/step4.png?raw=true "Title")
+
+  Para escribir en la _wiki_ se utilizará _markdown_ que es una forma de texto enriquecido. Si quieren aprender más sobre esto les recomiendo el siguiente tutorial:
+
+  https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+6. Para agregar imágenes a nuestra wiki, vamos a seguir los pasos descritos en el siguiente tutorial:
+
+   https://gist.github.com/TT--/14260aef6c0e31fca5b37e7cb3c53020
+
+Primero, debemos clonar el repositorio de forma local. Para esto, vamos a dirigirnos en nuesto PC al sitio (carpeta) en el que vamos a almacenar nuestra wiki.    Preferiblemente, este directorio debe ser el mismo directorio raíz donde está ubicado el repositorio del proyecto. __Nota:__ A pesar de que es posible manejar este directorio dentro de la carpeta local de nuestro proyecto, para evitar conflictos es preferible manejarlos como repositorios independientes. 
+Después, en la parte inferior derecha de la página de visualización de la _wiki_ (punto 5), aparece la url para clonar el repositorio. Abrimos una terminal en nuestro PC en la carpeta donde va a estar la _wiki_ y escribimos el siguiente comando:
+
+   ``git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY``
+
+En mi caso, el comando para clonar la wiki del proyecto es:
+
+   ``git clone https://github.com/jdmartinev/ProyectoPI_wiki.wiki.git``
+
+   
+
+    
 
