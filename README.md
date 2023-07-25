@@ -14,3 +14,12 @@
  3. Cree la primera página de la Wiki
 
     ![Alt text](figs/step2.png?raw=true "Title")
+
+ 4. Este paso nos llevará a una página con nombre por defecto ``home``. En esta página describiremos brevemente el proyecto. Después debemos dar click en el botón __save page__
+
+    ![Alt text](figs/step3.png?raw=true "Title")
+
+ 5. Llegaremos a la página de visualización de la Wiki, donde por defecto tendremos acceso a la página __home__ pero además tendremos una barra de navegación a la derecha, una opción para editar la página en la que estemos ubicados y una opción para crear nuevas páginas. Lo ideal es que creemos una página para cada homework, workshop y deliverable.
+
+    ![Alt text](figs/step4.png?raw=true "Title")
+
