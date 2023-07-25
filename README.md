@@ -57,6 +57,13 @@ Yo voy a agregar una figura de un cerebro
 
 ![Alt text](figs/step9.png?raw=true "Title")
 
+Para sincronizar esta figura, que hasta el momento se encuentra en la carpeta local de nuestro proyecto, con la versión en nube (GitHub), debemos utilizar los comandos ``add``, ``commit`` y ``push``. Para esto, desde la terminal escribiremos lo siguiente:
+
+``git add .``
+``git commit "brain fig"``
+``git push -u origin main``
+
+
 
    
 
