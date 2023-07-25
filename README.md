@@ -10,3 +10,7 @@
  2. En el repositorio, haga click en Wiki
 
     ![Alt text](figs/step1.png?raw=true "Title")
+ 
+ 3. Cree la primera página de la Wiki
+
+    ![Alt text](figs/step2.png?raw=true "Title")
