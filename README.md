@@ -49,6 +49,15 @@ Como resultados podremos ver una nueva carpeta con una extensión .wiki
 
 ![Alt text](figs/step7.png?raw=true "Title")
 
+Dentro de esta carpeta podemos crear una nueva carpeta con las imágenes que queremos incluir en nuestra _wiki_.
+
+![Alt text](figs/step8.png?raw=true "Title")
+
+Yo voy a agregar una figura de un cerebro
+
+![Alt text](figs/step9.png?raw=true "Title")
+
+
    
 
     
