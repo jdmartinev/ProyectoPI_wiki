@@ -45,6 +45,10 @@ En mi caso, el comando para clonar la wiki del proyecto es:
 
 ![Alt text](figs/step6.png?raw=true "Title")
 
+Como resultados podremos ver una nueva carpeta con una extensión .wiki
+
+![Alt text](figs/step7.png?raw=true "Title")
+
    
 
     
