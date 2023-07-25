@@ -35,13 +35,15 @@ Primero, debemos clonar el repositorio de forma local. Para esto, vamos a dirigi
 
 ![Alt text](figs/step5.png?raw=true "Title")
 
-Después, en la parte inferior derecha de la página de visualización de la _wiki_ (punto 5), aparece la url para clonar el repositorio. Abrimos una terminal en nuestro PC en la carpeta donde va a estar la _wiki_ y escribimos el siguiente comando:
+Después, en la parte inferior derecha de la página de visualización de la _wiki_ (punto 5), aparece la url para clonar el repositorio. Abrimos una terminal en nuestro PC en la carpeta donde va a estar la _wiki_, para esto podemos hacer click derecho en la carpeta y después en _Abrir terminal_, como se muestra en la figura anterior. Cuando la terminal se abra, escribimos el siguiente comando:
 
    ``git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY``
 
 En mi caso, el comando para clonar la wiki del proyecto es:
 
    ``git clone https://github.com/jdmartinev/ProyectoPI_wiki.wiki.git``
+
+![Alt text](figs/step6.png?raw=true "Title")
 
    
 
