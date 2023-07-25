@@ -57,11 +57,31 @@ Yo voy a agregar una figura de un cerebro
 
 ![Alt text](figs/step9.png?raw=true "Title")
 
+Revisemos que la rama principal de nuestro repo sea ``main`` y no ``master``. Para esto utilizaremos el siguiente comando:
+
+``git branch``
+
+Si el resultado que vemos en consola es ``* master``, debemos escribir lo siguiente en consola:
+
+``git branch -m master main``
+``git push -u origin main``
+``git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main``
+
+Verifiquemos que el cambio se haya realizado de forma correcta:
+
+``git branch -a``
+
+Finalmente, podemos eliminar la rama master:
+
+``git push origin --delete master``
+
 Para sincronizar esta figura, que hasta el momento se encuentra en la carpeta local de nuestro proyecto, con la versión en nube (GitHub), debemos utilizar los comandos ``add``, ``commit`` y ``push``. Para esto, desde la terminal escribiremos lo siguiente:
 
 ``git add .``
-``git commit "brain fig"``
+``git commit -m "brain fig"``
 ``git push -u origin main``
+
+
 
 
 
