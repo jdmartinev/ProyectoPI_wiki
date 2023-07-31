@@ -71,9 +71,15 @@ Ahora, vamos de nuevo a la wiki de nuestro proyecto en GitHub, y en la hoja en l
 
 Después, agregamos la figura que se encuentra en el directorio ``images``:
 
-[[images/brain.png]]
+``[[images/brain.png]]``
 
-![Alt text](figs/step10.png?raw=true "Title")
+Hacemos click en ```save page`` en la parte inferior izquierda de la pantalla
+
+![Alt text](figs/step11.png?raw=true "Title")
+
+Finalmente, podremos ver la figura en la _wiki_ de nuestro proyecto:
+
+![Alt text](figs/step12.png?raw=true "Title")
 
 
 
