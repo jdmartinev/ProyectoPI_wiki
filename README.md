@@ -61,9 +61,9 @@ __Nota:__ La rama principal de este repositorio es `master`. Esto debemos tenerl
 
 Para sincronizar esta figura, que hasta el momento se encuentra en la carpeta local de nuestro proyecto, con la versión en nube (GitHub), debemos utilizar los comandos ``add``, ``commit`` y ``push``. Para esto, desde la terminal escribiremos lo siguiente:
 
-``git add .`` \\
-``git commit -m "brain fig" \\
-``git push -u origin master`` \\
+``git add .`` \n
+``git commit -m "brain fig" \n
+``git push -u origin master`` \n
 
 
 
