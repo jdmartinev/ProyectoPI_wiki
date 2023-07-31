@@ -63,7 +63,9 @@ Para sincronizar esta figura, que hasta el momento se encuentra en la carpeta lo
 
 ``git add .`` \
 ``git commit -m "brain fig"`` \
-``git push -u origin master`` \
+``git push -u origin master`` 
+
+Ahora, 
 
 
 
