@@ -69,6 +69,10 @@ Ahora, vamos de nuevo a la wiki de nuestro proyecto en GitHub, y en la hoja en l
 
 ![Alt text](figs/step10.png?raw=true "Title")
 
+Después, agregamos la figura que se encuentra en el directorio ``images``:
+
+
+
 
 
 
