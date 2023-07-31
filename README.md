@@ -65,7 +65,9 @@ Para sincronizar esta figura, que hasta el momento se encuentra en la carpeta lo
 ``git commit -m "brain fig"`` \
 ``git push -u origin master`` 
 
-Ahora, 
+Ahora, vamos de nuevo a la wiki de nuestro proyecto en GitHub, y en la hoja en la que queramos adjuntar la figura hacemos click en editar
+
+![Alt text](figs/step10.png?raw=true "Title")
 
 
 
